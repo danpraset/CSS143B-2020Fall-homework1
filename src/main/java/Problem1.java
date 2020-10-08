@@ -5,7 +5,7 @@ public class Problem1 {
         // Set and return idx as data array length
         int idx = data.length - 1;
 
-        // For loop goes through array, could also use a while loop
+        // For loop goes through the array, could also use a while loop
         for (int i = 0; i < data.length; i++)
         {
             // Finds target
